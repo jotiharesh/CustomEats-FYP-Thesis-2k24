@@ -64,6 +64,7 @@ CustomEats enables:
 
 ### Frontend
 
+* Figma (Designing) 
 * Flutter (Dart)
 * Android Studio
 
@@ -80,6 +81,24 @@ CustomEats enables:
 
 * WampServer
 * Figma (UI/UX Design)
+
+---
+
+## 🎨 UI/UX Prototype
+
+The user interface and system design of CustomEats were developed using Figma. The project includes three main interfaces:
+
+### 👤 Customer Interface
+Interactive prototype for browsing, customizing meals, and placing orders:  
+👉 [View Customer Interface](https://www.figma.com/design/TfsSW1DzMfkpzs6Mv9RXjE/FYP?node-id=0-1&t=lIDj7zUHf8JKktvd-1)
+
+### 👨‍🍳 Chef Interface
+Prototype for chefs to manage and process incoming orders:  
+👉 [View Chef Interface](https://www.figma.com/design/K2K1sMKcTf2PSoAgVSp5uG/Chef-Interface?t=33L3zQHKttbynU0f-1)
+
+### 🛠️ Admin Dashboard
+Administrative interface for managing users, menu items, and orders:  
+👉 [View Admin Dashboard](https://www.figma.com/design/ThdqHlXKMbFg8fhKvZvH9S/Admin-Dashboard?node-id=0-1&t=33L3zQHKttbynU0f-1)
 
 ---
 
