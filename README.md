@@ -133,8 +133,8 @@ A survey conducted during development revealed:
 
 ## 📄 Project Report
 
-The full thesis/report is available in this repository as:
-📌 `thesis.pdf`
+The full thesis/report is available in this repository as:  
+📌 [thesis.pdf](./thesis.pdf)
 
 ---
 
